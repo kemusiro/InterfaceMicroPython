@@ -1,2 +1,2 @@
 # InterfaceMicroPython
-Interface誌で掲載したプログラムを公開するためのリポジトリです。
+Interface誌2023年3月号で掲載したプログラムを公開するためのリポジトリです。
